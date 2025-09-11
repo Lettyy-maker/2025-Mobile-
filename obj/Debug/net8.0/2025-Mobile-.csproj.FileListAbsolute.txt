@@ -1,0 +1,15 @@
+/workspaces/2025-Mobile-/bin/Debug/net8.0/2025-Mobile-
+/workspaces/2025-Mobile-/bin/Debug/net8.0/2025-Mobile-.deps.json
+/workspaces/2025-Mobile-/bin/Debug/net8.0/2025-Mobile-.runtimeconfig.json
+/workspaces/2025-Mobile-/bin/Debug/net8.0/2025-Mobile-.dll
+/workspaces/2025-Mobile-/bin/Debug/net8.0/2025-Mobile-.pdb
+/workspaces/2025-Mobile-/obj/Debug/net8.0/2025-Mobile-.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2025-Mobile-/obj/Debug/net8.0/2025-Mobile-.AssemblyInfoInputs.cache
+/workspaces/2025-Mobile-/obj/Debug/net8.0/2025-Mobile-.AssemblyInfo.cs
+/workspaces/2025-Mobile-/obj/Debug/net8.0/2025-Mobile-.csproj.CoreCompileInputs.cache
+/workspaces/2025-Mobile-/obj/Debug/net8.0/2025-Mobile-.sourcelink.json
+/workspaces/2025-Mobile-/obj/Debug/net8.0/2025-Mobile-.dll
+/workspaces/2025-Mobile-/obj/Debug/net8.0/refint/2025-Mobile-.dll
+/workspaces/2025-Mobile-/obj/Debug/net8.0/2025-Mobile-.pdb
+/workspaces/2025-Mobile-/obj/Debug/net8.0/2025-Mobile-.genruntimeconfig.cache
+/workspaces/2025-Mobile-/obj/Debug/net8.0/ref/2025-Mobile-.dll
